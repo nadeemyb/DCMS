@@ -4,23 +4,23 @@ This document provides a step-by-step guide for utilizing the Dynamic Consent Ma
 ________________________________________
 Login Credentials
 Subject
-•	Username: s1@gmail.com
+•	Username: nadeem.yb@gmail.com
 •	Password: 123
 Controller
 •	Username: c1@gmail.com
 •	Password: 123
 Requester
-•	Username: r1@gmail.com
+•	Username: requester@gmail.com
 •	Password: 123
 ________________________________________
 Steps for Using DCMS
 1. Subject Logs into the System
 •	Navigate to the login page.
-•	Enter the Subject's credentials (s1@gmail.com, 123).
+•	Enter the Subject's credentials (nadeem.yb@gmail.com, 123).
 •	View your medical reports on the dashboard.
 ________________________________________
 2. Requester Submits a Formal Request
-•	Requester logs in using their credentials (r1@gmail.com, 123).
+•	Requester logs in using their credentials (requester@gmail.com, 123).
 •	Fills out a form specifying:
 o	The type of data required.
 o	Research-related details.
@@ -54,4 +54,4 @@ Transparency and Data Flow
 
 Video Tutorial
 The following video tutorial demonstrates the above working process in detail:
-Click here to access the video tutorial on Google Drive
+Click here to access the video tutorial on Google Drive (https://drive.google.com/file/d/1DCO99YcD48jDt2wH_5xFrF6yPdQ-d9Wl/view?usp=drive_link)
