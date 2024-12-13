@@ -1,5 +1,22 @@
 # DCMS (Privacy by Design Enabled Dynamic Consent Management Systems: A Demonstration Perspective)
 Steps for Using the Dynamic Consent Management System (DCMS)
+
+Here are instructions for running your PHP and MySQL project on WAMP:
+
+Unzip the Files: Extract the project folder onto your system.
+
+Set Up the Database:
+
+Open phpMyAdmin from the WAMP control panel.
+Create a new database and import the provided .sql file into it.
+Configure the Project:
+
+Update the database credentials in the configuration file (e.g., db_config.php) to match your MySQL settings.
+Run the Project:
+
+Place the project folder in the www directory of WAMP.
+Open a browser and go to http://localhost/<project-folder-name>.
+
 This document provides a step-by-step guide for utilizing the Dynamic Consent Management System (DCMS), showcasing the roles of Subject, Controller, and Requester.
 ________________________________________
 Login Credentials
